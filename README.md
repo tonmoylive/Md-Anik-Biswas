@@ -31,9 +31,7 @@
 <a href="https://instagram.com/tonmoystagram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/5ae90bfcbd7ab2f69809b094601f7975c32ae077/src/images/icons/Social/instagram.svg" alt="tonmoystagram" height="30" width="40" /></a>
 <a href="https://wa.me/8801860200908?text=Hello%2C%20I%20want%20to%20contact%20you" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/5ae90bfcbd7ab2f69809b094601f7975c32ae077/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
 </p>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
